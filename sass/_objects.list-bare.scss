@@ -1,15 +1,15 @@
 /*------------------------------------*\
-    #LIST-BARE
+    #PX-LIST-BARE-DESIGN
 \*------------------------------------*/
+
+/**
+ * The list-bare object simply removes any indents and bullet points from lists.
+ */
 
 @import 'inuit-defaults/settings.defaults';
 @import 'px-functions-design/sass/tools.functions';
 
 @if import-once('objects.list-bare') {
-
-  /**
-   * The list-bare object simply removes any indents and bullet points from lists.
-   */
   
   // Predefine the variables below in order to alter and enable specific features.
   $inuit-list-bare-namespace: $inuit-namespace !default;
