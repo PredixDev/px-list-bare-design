@@ -6,7 +6,7 @@ The Predix Experience List Bare module simply removes bullets and indents from l
 
 Px's List Bare module depends on two other Px and inuitcss modules:
 
-* [settings.defaults](https://github.com/inuitcss/settings.defaults)
+* [px-defaults-design](https://github.sw.ge.com/PXd/px-defaults-design)
 * [px-functions-design](https://github.sw.ge.com/PXd/px-functions-design)
 
 ## Installation

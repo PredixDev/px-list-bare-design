@@ -6,7 +6,7 @@
  * The list-bare object simply removes any indents and bullet points from lists.
  */
 
-@import '../inuit-defaults/settings.defaults';
+@import '../px-defaults-design/settings.defaults';
 @import '../px-functions-design/tools.functions';
 
 @if import-once('objects.list-bare') {
