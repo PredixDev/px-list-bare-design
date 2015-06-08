@@ -2,24 +2,31 @@
 
 The Predix Experience List Bare module simply removes bullets and indents from lists. This module is a fork of the [inuitcss list-bare module](https://github.com/inuitcss/objects.list-bare).
 
-## Dependencies
+## Demo
 
-Px's List Bare module depends on two other Px and inuitcss modules:
+You can review list bare styles and recommended markup here: https://github.build.ge.com/pages/PXd/px-list-bare-design
 
-* [px-defaults-design](https://github.sw.ge.com/PXd/px-defaults-design)
-* [px-functions-design](https://github.sw.ge.com/PXd/px-functions-design)
+## Sass Docs
+
+You can review Sass Documentation here: https://github.build.ge.com/pages/PXd/px-list-bare-design/sassdoc
+
+## Dependency
+
+Px's List Bare module depends on one other Px module:
+
+* [px-defaults-design](https://github.build.ge.com/PXd/px-defaults-design)
 
 ## Installation
 
-Install this module and its dependencies using bower:
+Install this module and its dependency using bower:
 
-    bower install --save https://github.sw.ge.com/PXd/px-list-bare-design.git
+    bower install --save https://github.build.ge.com/PXd/px-list-bare-design.git
 
 Once installed, `@import` into your project's Sass file in its Objects layer:
 
     @import "../px-list-bare-design/objects.list-bare";
 
-See [px-getting-started](https://github.sw.ge.com/PXd/px-getting-started#a-note-about-relative-import-paths) for an explanation of the `../`
+See [px-getting-started](https://github.build.ge.com/PXd/px-getting-started#a-note-about-relative-import-paths) for an explanation of the `../`
 
 ## Import once
 
@@ -31,7 +38,7 @@ All rulesets are wrapped in the following `@if` statement:
 
 Basic usage of the List Bare module uses one required class:
 
-    <ul class="list-bare">
+    <ul class=list-bare>
         <li>Foo</li>
         <li>Bar</li>
         <li>Baz</li>
