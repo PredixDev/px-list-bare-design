@@ -1,18 +1,15 @@
-/*------------------------------------*\
-    #PX-LIST-BARE-DESIGN
-\*------------------------------------*/
-
-/**
- * The list-bare object simply removes any indents and bullet points from lists.
- */
+////
+/// PX-LIST-BARE-DESIGN
+/// The list-bare object simply removes any indents and bullet points from lists.
+/// @group px-list-bare-design
+////
 
 @import '../px-defaults-design/settings.defaults';
-@import '../px-functions-design/tools.functions';
+
+/// @type String [default] - Prepend value for all generated classes
+$inuit-list-bare-namespace  : $inuit-namespace !default;
 
 @if import-once('objects.list-bare') {
-  
-  // Predefine the variables below in order to alter and enable specific features.
-  $inuit-list-bare-namespace: $inuit-namespace !default;
   
   .#{$inuit-list-bare-namespace}list-bare,
   %#{$inuit-list-bare-namespace}list-bare {
