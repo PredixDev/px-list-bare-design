@@ -16,6 +16,12 @@ Px's List Bare module depends on one other Px module:
 
 * [px-defaults-design](https://github.build.ge.com/PXd/px-defaults-design)
 
+## Upstream dependency
+
+The List Bare module is also an upstream dependency in this meta kit:
+
+* [px-meta-lists-design](https://github.build.ge.com/PXd/px-meta-lists-design)
+
 ## Installation
 
 Install this module and its dependency using bower:
