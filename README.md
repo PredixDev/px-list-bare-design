@@ -30,15 +30,7 @@ Install this module and its dependency using bower:
 
 Once installed, `@import` into your project's Sass file in its Objects layer:
 
-    @import "../px-list-bare-design/objects.list-bare";
-
-See [px-getting-started](https://github.build.ge.com/PXd/px-getting-started#a-note-about-relative-import-paths) for an explanation of the `../`
-
-## Import once
-
-All rulesets are wrapped in the following `@if` statement:
-
-    @if import-once('objects.list-bare') { ... }
+    @import "px-list-bare-design/_objects.list-bare.scss";
 
 ## Usage
 
