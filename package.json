@@ -1,6 +1,6 @@
 {
   "name": "px-list-bare-design",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "A simple object to remove bullets and indents from lists",
   "private": true,
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.build.ge.com/PXd/px-list-bare-design.git"
+    "url": "https://github.build.ge.com/PXd/px-list-bare-design.git"
   },
   "author": "General Electric",
   "license": "Apache 2",
