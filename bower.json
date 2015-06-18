@@ -1,6 +1,6 @@
 {
   "name": "px-list-bare-design",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "authors": [
     "General Electric",
     "Harry Roberts <harry@csswizardry.com>"
@@ -14,7 +14,7 @@
     "lists"
   ],
   "license": "Apache 2",
-  "homepage": "https://github.sw.ge.com/PXd/px-list-bare-design.git",
+  "homepage": "https://github.build.ge.com/PXd/px-list-bare-design.git",
   "private": true,
   "ignore": [
     "**/.*",
@@ -24,7 +24,7 @@
     "tests"
   ],
   "dependencies": {
-    "px-defaults-design": "https://github.sw.ge.com/PXd/px-defaults-design.git#~0.2.0"
+    "px-defaults-design": "https://github.build.ge.com/PXd/px-defaults-design.git#~0.2.0"
   },
   "devDependencies": {
     "px-code-design": "https://github.build.ge.com/PXd/px-code-design.git#~0.2.0",
