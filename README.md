@@ -2,13 +2,10 @@
 
 The Predix Experience List Bare module simply removes bullets and indents from lists. This module is a fork of the [inuitcss list-bare module](https://github.com/inuitcss/objects.list-bare).
 
-## Demo
 
-You can review list bare styles and recommended markup here: https://github.com/pages/PredixDev/px-list-bare-design
 
-## Sass Docs
 
-You can review Sass Documentation here: https://github.com/pages/PredixDev/px-list-bare-design/sassdoc
+
 
 ## Dependency
 
