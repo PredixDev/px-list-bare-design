@@ -1,3 +1,7 @@
+v0.2.16
+==============================
+* added mega demo section to index
+
 v0.2.15
 ==============================
 * Updated dependencies
