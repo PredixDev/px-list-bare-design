@@ -1,6 +1,6 @@
 {
     "name": "px-list-bare-design",
-    "version": "0.2.20",
+    "version": "0.2.21",
     "authors": [
         "General Electric",
         "Harry Roberts <harry@csswizardry.com>"
@@ -22,7 +22,7 @@
         "sass",
         "scripts",
         ".github",
-        "Gruntfile.js",
+        "gulpfile.js",
         "OSS_Notice.pdf",
         "sassdoc.json"
     ],
