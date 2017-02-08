@@ -1,3 +1,7 @@
+v0.3.4
+==================
+* updated demo using px-demo
+
 v0.3.3
 ==================
 * rebuilt sass with new colors
