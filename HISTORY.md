@@ -1,3 +1,7 @@
+v0.3.5
+==================
+* added OSS_Notice.pdf to bower ignore
+
 v0.3.4
 ==================
 * updated demo using px-demo

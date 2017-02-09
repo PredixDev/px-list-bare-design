@@ -1,6 +1,6 @@
 {
   "name": "px-list-bare-design",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "authors": [
     "General Electric",
     "Harry Roberts <harry@csswizardry.com>"
@@ -26,7 +26,8 @@
     "gulpfile.js",
     "monogram-wdmk.png",
     "wct.conf.json",
-    "test"
+    "test",
+    "OSS_Notice.pdf"
   ],
   "dependencies": {
     "px-defaults-design": "^1.0.2"
