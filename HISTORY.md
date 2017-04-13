@@ -1,3 +1,7 @@
+v1.0.0-prerelease
+==================
+* updated dependencies for design refresh
+
 v0.3.5
 ==================
 * added OSS_Notice.pdf to bower ignore
