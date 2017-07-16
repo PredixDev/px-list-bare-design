@@ -1,10 +1,10 @@
-# List Bare
+# px-list-bare-design
 
 The Predix UI List Bare module simply removes bullets and indents from lists. This module is a fork of the [inuitcss list-bare module](https://github.com/inuitcss/objects.list-bare).
 
 ## Dependency
 
-Predix UI's List Bare module depends on one other Px module:
+The px-list-bare-design module depends on one other Px module:
 
 * [px-defaults-design](https://github.com/PredixDev/px-defaults-design)
 
