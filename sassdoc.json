@@ -2,16 +2,16 @@
     {
         "description": "Default list-bare\n",
         "commentRange": {
-            "start": 14,
-            "end": 14
+            "start": 30,
+            "end": 30
         },
         "context": {
             "type": "css",
-            "name": ".#",
-            "value": "$inuit-list-bare-namespace",
+            "name": ".#{$inuit-list-bare-namespace}list-bare,\n%#{$inuit-list-bare-namespace}list-bare",
+            "value": "margin:  0;\n    padding: 0;\n    list-style: none;\n    line-height: $inuit-base-line-height;",
             "line": {
-                "start": 15,
-                "end": 21
+                "start": 32,
+                "end": 38
             }
         },
         "group": [
@@ -26,8 +26,8 @@
     {
         "description": "Prepend value for all generated classes\n",
         "commentRange": {
-            "start": 9,
-            "end": 11
+            "start": 25,
+            "end": 27
         },
         "context": {
             "type": "variable",
@@ -35,8 +35,8 @@
             "value": "$inuit-namespace",
             "scope": "default",
             "line": {
-                "start": 12,
-                "end": 12
+                "start": 28,
+                "end": 28
             }
         },
         "group": [
